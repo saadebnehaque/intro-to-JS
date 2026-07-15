@@ -18,7 +18,7 @@ console.log(let);
 // const false = 'False';
 
 // 3. has to be in one word. can not contain any spage or gap
-const her phone number = 5144442111;
+const her phone number = 5144442111;// this is not valid. because it contains space
 const her_phone_number = 5144442111; //snake case
 const herPhoneNumber = 5144442111; // camel case. usually this one we will use.
 const HerPhoneNumber = 5144442111; // pascal case
